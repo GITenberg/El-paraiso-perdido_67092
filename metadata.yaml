@@ -19,6 +19,9 @@ contributor:
     agent_name: Rosell, Cayetano
     gutenberg_agent_id: '54109'
     url: http://www.gutenberg.org/2009/agents/54109
+covers:
+- cover_type: archival
+  image_path: 67092-h/images/cover.jpg
 creator:
   author:
     agent_name: Milton, John
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/17
     wikipedia: https://en.wikipedia.org/wiki/John_Milton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67092#El-paraiso-perdido
 gutenberg_issued: '2022-01-03'
 identifiers:
   gutenberg: '67092'
